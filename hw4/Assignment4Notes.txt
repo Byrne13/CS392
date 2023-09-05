@@ -1,0 +1,1 @@
+Incorrect filenames and/or sizes in Functionality 1 (-10). Incorrect filenames and/or sizes in Functionality 2 (-10). Incorrect total disk usage in Functionality 3 due to not accounting for space used by directories: (-5). Incorrect total disk usage in Functionality 4 due to not accounting for space used by directories: (-5). Incorrect memory management (-5).
